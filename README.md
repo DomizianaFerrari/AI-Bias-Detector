@@ -9,23 +9,21 @@ AI Ethical Scanner is an open-source tool designed to detect potential biases in
 
 The adoption of AI systems is growing every day, but often models reflect the inequalities present in the data they are trained on. This project aims to provide an accessible tool to:
 
-Identify biases in datasets before training.
-
-Assess the fairness of models.
-
-Support the development of more responsible AI.
+- Identify biases in datasets before training.
+- Assess the fairness of models.
+- Support the development of more responsible AI.
 
 # Features
 
-Automated exploratory analysis on sensitive variables
+- Automated exploratory analysis on sensitive variables
 
-Fairness metrics (e.g., Disparate Impact, Equal Opportunity Difference)
+- Fairness metrics (e.g., Disparate Impact, Equal Opportunity Difference)
 
-Interactive visualizations
+- Interactive visualizations
 
-Final report with summary results and recommendations
+- Final report with summary results and recommendations
 
-Modular and customizable pipeline
+- Modular and customizable pipeline
 
 # How it works
 
@@ -42,7 +40,7 @@ Modular and customizable pipeline
 
 Final output with recommendations on how to mitigate biases
 
-#Architecture
+# Architecture
 
 project/
 │
@@ -53,13 +51,13 @@ project/
 ├── requirements.txt    # Required libraries
 └── README.md           # This file
 
-#Installation
+# Installation
 
-# Clone the repository
+#Clone the repository
 git clone https://github.com/username/ai-ethical-scanner.git
 cd ai-ethical-scanner
 
-# Install dependencies
+#Install dependencies
 pip install -r requirements.txt
 
 
