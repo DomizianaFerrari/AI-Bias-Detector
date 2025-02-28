@@ -1,5 +1,5 @@
 # AI-Bias-Detector
-AI-Bias-Detector
+AI-Bias-Detector 🔍
 
 # Overview
 
