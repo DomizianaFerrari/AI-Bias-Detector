@@ -41,7 +41,7 @@ The adoption of AI systems is growing every day, but often models reflect the in
 Final output with recommendations on how to mitigate biases
 
 # Architecture
-
+```
 project/
 │
 ├── data/               # Example datasets
@@ -50,26 +50,20 @@ project/
 ├── reports/            # Outputs and visualizations
 ├── requirements.txt    # Required libraries
 └── README.md           # This file
+```
 
 # Installation
-
-#Clone the repository
+Clone the repository: 
+```bash
 git clone https://github.com/username/ai-ethical-scanner.git
 cd ai-ethical-scanner
-
-#Install dependencies
+Install dependencies
 pip install -r requirements.txt
-
+```
 
 
 # Contribute
-
 Contributions are welcome! If you have ideas or improvements, open an issue or submit a pull request.
 
-# About Me
-
-Hi, I'm Domiziana – a communication strategist diving into the world of data science with a mission to make tech more ethical and sustainable. This project is part of my journey to combine data, ethics, and social impact. If you're into AI fairness or want to collaborate, feel free to reach out!
-
-License
-
+# License
 This project is released under the MIT License.
