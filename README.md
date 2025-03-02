@@ -55,7 +55,7 @@ project/
 # Installation
 Clone the repository: 
 ```bash
-git clone https://github.com/username/ai-ethical-scanner.git
+git clone https://github.com/DomizianaFerrari/ai-ethical-scanner.git
 cd ai-ethical-scanner
 Install dependencies
 pip install -r requirements.txt
